@@ -1,0 +1,1420 @@
+[
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10015",
+        "id": "10015",
+        "key": "CXXXX",
+        "name": "_modèle_affaire",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10556",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10556?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10556?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10556?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10012",
+        "id": "10012",
+        "key": "PLC",
+        "name": "Automate",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10512",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10512?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10512?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10512?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10002",
+            "id": "10002",
+            "name": "Métier",
+            "description": "Projet orienté métier utilisé pour les équipes/groupes KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10043",
+        "id": "10043",
+        "key": "C9740",
+        "name": "C9740",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10584",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10584?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10584?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10584?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10030",
+        "id": "10030",
+        "key": "C9748",
+        "name": "C9748",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10574",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10574?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10574?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10574?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10054",
+        "id": "10054",
+        "key": "C9809",
+        "name": "C9809",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10596",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10596?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10596?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10596?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10020",
+        "id": "10020",
+        "key": "C9817",
+        "name": "C9817",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10561",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10561?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10561?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10561?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10019",
+        "id": "10019",
+        "key": "C9818",
+        "name": "C9818",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10560",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10560?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10560?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10560?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10023",
+        "id": "10023",
+        "key": "C9822",
+        "name": "C9822",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10565",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10565?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10565?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10565?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10024",
+        "id": "10024",
+        "key": "C9823",
+        "name": "C9823",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10566",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10566?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10566?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10566?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10050",
+        "id": "10050",
+        "key": "C9824",
+        "name": "C9824",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10592",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10592?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10592?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10592?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10028",
+        "id": "10028",
+        "key": "C9826",
+        "name": "C9826",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10572",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10572?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10572?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10572?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10049",
+        "id": "10049",
+        "key": "C9827",
+        "name": "C9827",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10591",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10591?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10591?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10591?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10034",
+        "id": "10034",
+        "key": "C9829",
+        "name": "C9829",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10578",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10578?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10578?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10578?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10039",
+        "id": "10039",
+        "key": "C9830",
+        "name": "C9830",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10582",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10582?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10582?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10582?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10036",
+        "id": "10036",
+        "key": "C9831",
+        "name": "C9831",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10580",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10580?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10580?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10580?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10037",
+        "id": "10037",
+        "key": "C9832",
+        "name": "C9832",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10581",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10581?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10581?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10581?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10045",
+        "id": "10045",
+        "key": "C9834",
+        "name": "C9834",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10587",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10587?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10587?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10587?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10046",
+        "id": "10046",
+        "key": "C9835",
+        "name": "C9835",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10588",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10588?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10588?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10588?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10047",
+        "id": "10047",
+        "key": "C9836",
+        "name": "C9836",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10589",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10589?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10589?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10589?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10063",
+        "id": "10063",
+        "key": "C9837",
+        "name": "C9837",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10606",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10606?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10606?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10606?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10053",
+        "id": "10053",
+        "key": "C9839",
+        "name": "C9839",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10595",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10595?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10595?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10595?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10059",
+        "id": "10059",
+        "key": "C9840",
+        "name": "C9840",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10602",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10602?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10602?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10602?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10058",
+        "id": "10058",
+        "key": "C9841",
+        "name": "C9841",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10611",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10611?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10611?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10611?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10064",
+        "id": "10064",
+        "key": "C9842",
+        "name": "C9842",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10607",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10607?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10607?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10607?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10067",
+        "id": "10067",
+        "key": "C9843",
+        "name": "C9843",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10610",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10610?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10610?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10610?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10068",
+        "id": "10068",
+        "key": "C9844",
+        "name": "C9844",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10612",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10612?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10612?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10612?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10069",
+        "id": "10069",
+        "key": "C9845",
+        "name": "C9845",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10613",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10613?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10613?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10613?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10072",
+        "id": "10072",
+        "key": "C9846",
+        "name": "C9846",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10616",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10616?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10616?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10616?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10070",
+        "id": "10070",
+        "key": "C9847",
+        "name": "C9847",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10614",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10614?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10614?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10614?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10071",
+        "id": "10071",
+        "key": "C9848",
+        "name": "C9848",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10615",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10615?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10615?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10615?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10073",
+        "id": "10073",
+        "key": "C9849",
+        "name": "C9849",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10617",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10617?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10617?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10617?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10077",
+        "id": "10077",
+        "key": "C9851",
+        "name": "C9851",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10620",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10620?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10620?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10620?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10075",
+        "id": "10075",
+        "key": "C9852",
+        "name": "C9852",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10618",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10618?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10618?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10618?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10057",
+        "id": "10057",
+        "key": "FE",
+        "name": "Fiches d'évolutions",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10600",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10600?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10600?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10600?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10029",
+        "id": "10029",
+        "key": "FLEX",
+        "name": "FlexDrill",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10573",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10573?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10573?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10573?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10002",
+            "id": "10002",
+            "name": "Métier",
+            "description": "Projet orienté métier utilisé pour les équipes/groupes KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10021",
+        "id": "10021",
+        "key": "G1401",
+        "name": "G1401",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10562",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10562?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10562?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10562?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10056",
+        "id": "10056",
+        "key": "G1402",
+        "name": "G1402",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10598",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10598?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10598?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10598?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10022",
+        "id": "10022",
+        "key": "G1420",
+        "name": "G1420",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10563",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10563?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10563?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10563?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10044",
+        "id": "10044",
+        "key": "G1770",
+        "name": "G1770 - Obsolescence",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10585",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10585?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10585?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10585?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10066",
+        "id": "10066",
+        "key": "G1782",
+        "name": "G1782",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10609",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10609?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10609?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10609?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10010",
+        "id": "10010",
+        "key": "LDP",
+        "name": "Logiciel de pilotage",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10555",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10555?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10555?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10555?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10002",
+            "id": "10002",
+            "name": "Métier",
+            "description": "Projet orienté métier utilisé pour les équipes/groupes KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10011",
+        "id": "10011",
+        "key": "MIC",
+        "name": "Microélectronique",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10514",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10514?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10514?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10514?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10002",
+            "id": "10002",
+            "name": "Métier",
+            "description": "Projet orienté métier utilisé pour les équipes/groupes KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10027",
+        "id": "10027",
+        "key": "NC",
+        "name": "Non-Conformités",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10571",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10571?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10571?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10571?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10025",
+        "id": "10025",
+        "key": "PHL",
+        "name": "PHL",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10567",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10567?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10567?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10567?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10002",
+            "id": "10002",
+            "name": "Métier",
+            "description": "Projet orienté métier utilisé pour les équipes/groupes KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10031",
+        "id": "10031",
+        "key": "R3166",
+        "name": "R3166",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10575",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10575?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10575?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10575?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10078",
+        "id": "10078",
+        "key": "R3167",
+        "name": "R3167",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10621",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10621?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10621?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10621?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10062",
+        "id": "10062",
+        "key": "R3170",
+        "name": "R3170",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10605",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10605?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10605?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10605?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10013",
+        "id": "10013",
+        "key": "ROB",
+        "name": "Robot",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10513",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10513?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10513?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10513?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10002",
+            "id": "10002",
+            "name": "Métier",
+            "description": "Projet orienté métier utilisé pour les équipes/groupes KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10040",
+        "id": "10040",
+        "key": "SAV",
+        "name": "SAV",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10583",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10583?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10583?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10583?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10033",
+        "id": "10033",
+        "key": "BEE",
+        "name": "Suivi ELEC | PLC",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10577",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10577?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10577?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10577?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10032",
+        "id": "10032",
+        "key": "BEM",
+        "name": "Suivi Mécanique",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10576",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10576?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10576?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10576?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10061",
+        "id": "10061",
+        "key": "SC",
+        "name": "Supply Chain",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10604",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10604?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10604?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10604?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10074",
+        "id": "10074",
+        "key": "TESTP",
+        "name": "Test projet",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10404",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10404?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10404?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10404?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "business",
+        "simplified": true,
+        "style": "next-gen",
+        "isPrivate": false,
+        "properties": {},
+        "entityId": "92fdef26-e843-464b-9370-d4c7ed542593",
+        "uuid": "92fdef26-e843-464b-9370-d4c7ed542593"
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10016",
+        "id": "10016",
+        "key": "C9816",
+        "name": "Z_ARCHIVE_C9816",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10557",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10557?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10557?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10557?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10035",
+        "id": "10035",
+        "key": "C9825",
+        "name": "Z_ARCHIVE_C9825",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10579",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10579?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10579?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10579?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10052",
+        "id": "10052",
+        "key": "C9828",
+        "name": "Z_ARCHIVE_C9828",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10594",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10594?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10594?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10594?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10048",
+        "id": "10048",
+        "key": "C9833",
+        "name": "Z_ARCHIVE_C9833",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10590",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10590?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10590?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10590?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10055",
+        "id": "10055",
+        "key": "C9838",
+        "name": "Z_ARCHIVE_C9838",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10597",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10597?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10597?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10597?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    },
+    {
+        "expand": "description,lead,issueTypes,url,projectKeys,permissions,insight",
+        "self": "https://ksaf.atlassian.net/rest/api/3/project/10051",
+        "id": "10051",
+        "key": "R3164",
+        "name": "Z_ARCHIVE_R3164",
+        "avatarUrls": {
+            "48x48": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10593",
+            "24x24": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10593?size=small",
+            "16x16": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10593?size=xsmall",
+            "32x32": "https://ksaf.atlassian.net/rest/api/3/universal_avatar/view/type/project/avatar/10593?size=medium"
+        },
+        "projectCategory": {
+            "self": "https://ksaf.atlassian.net/rest/api/3/projectCategory/10001",
+            "id": "10001",
+            "name": "Item-list",
+            "description": "Projet item-list utilisé pour les affaires KSAF."
+        },
+        "projectTypeKey": "software",
+        "simplified": false,
+        "style": "classic",
+        "isPrivate": false,
+        "properties": {}
+    }
+]

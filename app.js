@@ -47,7 +47,8 @@ const getRecentProjects = async () => {
 //This will list all issues for a project
 const getIssuesFunc = async () => {
   const issues = await getIssues();
-  console.log(issues)
+  const l = JSON.parse(issues)
+  console.log(issues[1]) 
 }
 
 // This will list all transitions for a project, make sure to change the issueKey to correspond
@@ -80,7 +81,7 @@ const getUsersFunc = async () => {
 
 // Step 1, get user account ID to be able to assign a new project to a user
 // Get users - needed to get the leadAccountID to be able to create a project!
-getUsersFunc();
+//getUsersFunc();
 
 // Step 2, add the accountID to the env file, save the file and run source .env and then 
 // uncomment the function call below to create a project, create an issue in that project,
@@ -88,11 +89,11 @@ getUsersFunc();
 // createProjectIssueAndUpdate();
 
 // Step 3, uncomment the function call below to get issues to see the newly created issue
-// getIssuesFunc();
+ getIssuesFunc();
 
 // Step 4, uncomment the function call below to get issues to see the newly created project
 // Get recent projects
-// getRecentProjects();
+ //getRecentProjects();
 
 // Step 4, uncomment the function call below to get issues to see the newly created project
 // Get recent projects
